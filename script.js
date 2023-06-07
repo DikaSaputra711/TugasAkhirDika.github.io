@@ -3,7 +3,12 @@ var cityDistances = {
   Surabaya: 1305,
   Bandung: 673,
   Medan: 1364,
-  Semarang: 964
+  Semarang: 964,
+  Lampung: 240,
+  Bali: 1703,
+  Jambi: 277,
+  Aceh: 1803
+
 };
 
 function addItemInputs() {
