@@ -7,7 +7,8 @@ var cityDistances = {
   Lampung: 240,
   Bali: 1703,
   Jambi: 277,
-  Aceh: 1803
+  Aceh: 1803,
+  Padang: 754
 
 };
 
